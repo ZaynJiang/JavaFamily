@@ -62,7 +62,7 @@
     - [浏览器的秘密藏在这31张图里](https://mp.weixin.qq.com/s/11MRrxmiyZybTUbjRDRubQ)
     - [带宽、延时、吞吐率、PPS 这些都是啥？](https://mp.weixin.qq.com/s/eWHQ8co0jF_a26Xz8ZQLjg)
     - [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s/FaHKGRI69TqDj0AJtNiVoA)
-    - [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
+    - [~~20 张图揭开内存管理的迷雾~~](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
     - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
     - [计算机内存管理基础知识](https://mp.weixin.qq.com/s/OGRMAJeDw8wuO7UW5PjoVQ)
     - [用动图的方式，理解 CPU 缓存一致性协议！](https://mp.weixin.qq.com/s/cyI2VAP4dqkStbsNMDWhDQ)
@@ -96,31 +96,31 @@
     - [3万字Linux总结](https://mp.weixin.qq.com/s/kG1g7ghTkOMzyEoZ6tQMHQ)
 
   - 计算机网络  
-    - [计算机网络](https://mp.weixin.qq.com/s/WfcozFAdXbOJ0EIcZEfLVg)
-    - [拔掉网线后， 原本的 TCP 连接还存在吗？](https://mp.weixin.qq.com/s/0YFsUWL6e9r_aDrCZeTK3w)
+    - [~~计算机网络~~](https://mp.weixin.qq.com/s/WfcozFAdXbOJ0EIcZEfLVg)
+    - [~~拔掉网线后， 原本的 TCP 连接还存在吗？~~](https://mp.weixin.qq.com/s/0YFsUWL6e9r_aDrCZeTK3w)
     - [熬夜整理的20道计算机网络面试题](https://mp.weixin.qq.com/s/3FTuMZaUrT9Vw-ZScJkQbg)
     - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
-    - [键入网址后，期间发生了什么？](https://mp.weixin.qq.com/s/I6BLwbIpfGEJnxjDcPXc1A)
+    - [~~键入网址后，期间发生了什么？~~](https://mp.weixin.qq.com/s/I6BLwbIpfGEJnxjDcPXc1A)
     - HTTP/HTTPS
-        - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
-        - [全网最透彻HTTPS（面试常问）](https://mp.weixin.qq.com/s/21JaXwdfSjItj5SgOwhapg)
+        - [~~图解HTTP协议(这篇垃圾的很)~~](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
+        - [~~全网最透彻HTTPS（面试常问）~~](https://mp.weixin.qq.com/s/21JaXwdfSjItj5SgOwhapg)
         
-        - [一文领略 HTTP 的前世今生](https://mp.weixin.qq.com/s/ljtDM1d2KgtxAAhwUFSHkg)
+        - [~~一文领略 HTTP 的前世今生~~](https://mp.weixin.qq.com/s/ljtDM1d2KgtxAAhwUFSHkg)
         - [硬核！30 张图解 HTTP 常见的面试题](https://mp.weixin.qq.com/s/amOya0M00LwpL5kCS96Y6w)
         - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
-        - [中间人攻击](https://mp.weixin.qq.com/s/Mi3zM-oyMoxxdzSlSnHpQQ)
+        - [~~中间人攻击~~](https://mp.weixin.qq.com/s/Mi3zM-oyMoxxdzSlSnHpQQ)
     - TCP/IP    
         - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s/LUtk6u_zv0w8g8GIGWEuCw)
         
         - [实战！敖丙用“大白鲨”让你看见 TCP](https://mp.weixin.qq.com/s/jTDU-zxP1INTYLpGLypjXQ)
         - [面试官：换人！他连 TCP 这几个参数都不懂](https://mp.weixin.qq.com/s/ytV7RZSyFXyvPW_lKhv8hw)
-        - [TCP/IP 基础知识总结](https://mp.weixin.qq.com/s/lkX2Mb2aCj8ugOaRmVVBqw)
+        - [~~TCP/IP 基础知识总结~~](https://mp.weixin.qq.com/s/lkX2Mb2aCj8ugOaRmVVBqw)
         - [TCP 半连接队列和全连接队列满了会发生什么？又该如何应对？](https://mp.weixin.qq.com/s/tRXlq1hErqKQLMMLcxoXvg)
         - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
-        - [敖丙用近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题](https://mp.weixin.qq.com/s/rX3A_FA19n4pI9HicIEsXg)
-        - [你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了](https://mp.weixin.qq.com/s/HjOUsKn8eLfDogbBX3hPnA)
-        - [IP 基础知识“全家桶”，敖丙45 张图一套带走你](https://mp.weixin.qq.com/s/p9oA9YTZLoXVooUOSNQCMg)
-        - [敖丙听说你 ping 用的很 6 ？给我图解一下 ping 的工作原理！](https://mp.weixin.qq.com/s/3KF0IxLum8EOtcF0ZNIiPA)
+        - [~~敖丙用近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题~~](https://mp.weixin.qq.com/s/rX3A_FA19n4pI9HicIEsXg)
+        - [~~你还在为 TCP 重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了~~](https://mp.weixin.qq.com/s/HjOUsKn8eLfDogbBX3hPnA)
+        - [~~IP 基础知识“全家桶”，敖丙45 张图一套带走你~~](https://mp.weixin.qq.com/s/p9oA9YTZLoXVooUOSNQCMg)
+        - [~~敖丙听说你 ping 用的很 6 ？给我图解一下 ping 的工作原理！~~](https://mp.weixin.qq.com/s/3KF0IxLum8EOtcF0ZNIiPA)
         - [一文搞定 UDP 和 TCP 高频面试题！](https://mp.weixin.qq.com/s/BK2H7JQIo6zOrXYg9RcbeA)
   
   
@@ -311,57 +311,57 @@
         - [Netty常见面试题总结](https://mp.weixin.qq.com/s/eJ-dAtOYsxylGL7pBv7VVA)
   - ORM框架Mybatis源码分析
   - Zookeeper
-    - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
+    - [~~什么是Zookeeper~~](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
     
-    - [分布式锁之Zookeeper](https://mp.weixin.qq.com/s/ZqQHWLfVD1Rz1agmH3LWrg)
-    - [Zookeeper之ZAB协议](https://mp.weixin.qq.com/s/k0zAExTvMsrugCaNJxs7hQ)
-    - [Zookeeper夺命连环9问](https://mp.weixin.qq.com/s/YawG0GqznDHaiHXZuTsCjA)
+    - [~~分布式锁之Zookeeper~~](https://mp.weixin.qq.com/s/ZqQHWLfVD1Rz1agmH3LWrg)
+    - [~~Zookeeper之ZAB协议~~](https://mp.weixin.qq.com/s/k0zAExTvMsrugCaNJxs7hQ)
+    - [~~Zookeeper夺命连环9问~~](https://mp.weixin.qq.com/s/YawG0GqznDHaiHXZuTsCjA)
   
 - 高并发架构基石-缓存
  
   - Redis数据结构、基础知识
     - [Redis基础知识](https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ)
-    - [图解 Redis 数据结构](https://mp.weixin.qq.com/s/qptE172slg_6Tl1yuzdbfw)
+    - [~~图解 Redis 数据结构~~](https://mp.weixin.qq.com/s/qptE172slg_6Tl1yuzdbfw)
     
-    - [Redis为什么这么快？](https://mp.weixin.qq.com/s/KtzvawDnQQwhfjnCoXpcMQ)
-    - [集群高可用、哨兵、持久化、LRU](https://mp.weixin.qq.com/s/EjDeypra_d9Tfsn-WkJZdw)
-    - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
-    - [Redis—分布式锁深入探究](https://mp.weixin.qq.com/s/49hgH3COla3wU0rgyiUVgg)
-    - [Redis—跳跃表](https://mp.weixin.qq.com/s/NOsXdrMrWwq4NTm180a6vw)
-    - [Redis—5种基本数据结构](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
-    - [Redis—持久化](https://mp.weixin.qq.com/s/O_qDco6-Dasu3RomWIK_Ig)
-    - [Reids—神奇的HyperLoglog解决统计问题](https://mp.weixin.qq.com/s/9dtGe3d_mbbxW5FpVPDNow)
-    - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
+    - [~~Redis为什么这么快？~~](https://mp.weixin.qq.com/s/KtzvawDnQQwhfjnCoXpcMQ)
+    - [~~集群高可用、哨兵、持久化、LRU~~](https://mp.weixin.qq.com/s/EjDeypra_d9Tfsn-WkJZdw)
+    - [~~布隆过滤器(BloomFilter~~)](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
+    - [~~Redis—分布式锁深入探究~~](https://mp.weixin.qq.com/s/49hgH3COla3wU0rgyiUVgg)
+    - [~~Redis—跳跃表~~](https://mp.weixin.qq.com/s/NOsXdrMrWwq4NTm180a6vw)
+    - [~~Redis—5种基本数据结构~~](https://mp.weixin.qq.com/s/MT1tB2_7f5RuOxKhuEm1vQ)
+    - [~~Redis—持久化~~](https://mp.weixin.qq.com/s/O_qDco6-Dasu3RomWIK_Ig)
+    - [~~Reids—神奇的HyperLoglog解决统计问题~~](https://mp.weixin.qq.com/s/9dtGe3d_mbbxW5FpVPDNow)
+    - [~~Redis分布式锁~~](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
     - [Redis数据结构底层系列-SDS](https://mp.weixin.qq.com/s/VY31lBOSggOHvVf54GzvYw)
     - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
-    - [Redis分布式锁(全)](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
-    - [Redis源码之BitMap](https://mp.weixin.qq.com/s/LavkCpqMTled_1m9CpJQ6w)
+    - [~~Redis分布式锁(全)~~](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
+    - [~~Redis源码之BitMap~~](https://mp.weixin.qq.com/s/LavkCpqMTled_1m9CpJQ6w)
     - [Redis源码之SDS](https://mp.weixin.qq.com/s/uYUQ1P8Dq1Cdknxif7lF-g)
     - [读懂Redis源码，我总结了这7点心得](https://mp.weixin.qq.com/s/h-OEbiUUmKvUZqxmjfmgtg)
   - Redis常见线上故障及其解决方案
-    - [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
-    - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
+    - [~~缓存击穿、雪崩、穿透~~](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
+    - [~~布隆过滤器实战【防止缓存击穿】理解的有点糙~~](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
     
-    - [分布式锁、并发竞争、双写一致性](https://mp.weixin.qq.com/s/2hTgP3MRTVDxmmoUFhOaGw)
+    - [~~分布式锁、并发竞争、双写一致性~~](https://mp.weixin.qq.com/s/2hTgP3MRTVDxmmoUFhOaGw)
   - Redis常见面试题
     - [Redis面试题](https://mp.weixin.qq.com/s/LkIcGS9kFTXNLFlxASPYUA)
     - [Redis常见面试题](https://mp.weixin.qq.com/s/R1TJMo2IbPUUMox9OAAafQ)
-    - [Redis为什么变慢了？一文讲透如何排查Redis性能问题](https://mp.weixin.qq.com/s/rw42cFbJXwPtsGiqkFErfw)
+    - [~~Redis为什么变慢了？一文讲透如何排查Redis性能问题~~](https://mp.weixin.qq.com/s/rw42cFbJXwPtsGiqkFErfw)
      
-    - [Redis不是一直号称单线程效率也很高吗，为什么又采用多线程了？](https://mp.weixin.qq.com/s/mscKInWNAuhCbg183Um9_g) 
-    - [缓存一致性问题怎么解决？](https://mp.weixin.qq.com/s/dYvM8_6SQnYRB6KjPsprbw)
-    - [内存耗尽后Redis会发生什么？](https://mp.weixin.qq.com/s/-caMTrOXQu-o0O44e6I9dQ)
+    - [~~Redis不是一直号称单线程效率也很高吗，为什么又采用多线程了？~~](https://mp.weixin.qq.com/s/mscKInWNAuhCbg183Um9_g) 
+    - [~~缓存一致性问题怎么解决？~~](https://mp.weixin.qq.com/s/dYvM8_6SQnYRB6KjPsprbw)
+    - [~~内存耗尽后Redis会发生什么？~~](https://mp.weixin.qq.com/s/-caMTrOXQu-o0O44e6I9dQ)
     - [妈妈再也不担心我面试被Redis问得脸都绿了](https://mp.weixin.qq.com/s/vXBFscXqDcXS_VaIERplMQ)
     
   
   - 知识点之外的缓存之路
       
-      - [缓存和数据库一致性问题](https://mp.weixin.qq.com/s/D4Ik6lTA_ySBOyD3waNj1w)
+      - [~~缓存和数据库一致性问题~~](https://mp.weixin.qq.com/s/D4Ik6lTA_ySBOyD3waNj1w)
       - [一个架构师的缓存修炼之路](https://mp.weixin.qq.com/s/Ls-Bld0Q6OQ1VD_az3iqbg)  
       - [再见了Antirez我永远的神](https://mp.weixin.qq.com/s/u3Ws1FGhJVIJdpM8IHI7OQ)
       - [敖丙在蘑菇街的redis技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
       - [课代表总结](https://mp.weixin.qq.com/s/lLTbL5YW0gIJu9Yx2T2OtA)
-      - [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis](https://mp.weixin.qq.com/s/8EN9vrZMhCK-40o_OdnOlg)
+      - [~~Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis~~](https://mp.weixin.qq.com/s/8EN9vrZMhCK-40o_OdnOlg)
       - [布隆过滤器过时了，未来属于布谷鸟过滤器？](https://mp.weixin.qq.com/s/XxY3b5FoVXCvHJWMxQH29g)
       - [什么鬼，面试官竟然让敖丙用Redis实现一个消息队列！！？](https://mp.weixin.qq.com/s/5NOTLJ6AM3QJfhvXMSR-MA)
       - [我最爱用的一款 Redis 可视化管理工具！好用到爆！！！](https://mp.weixin.qq.com/s/LDkcDO75gsivs04XXNLzTA)
