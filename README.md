@@ -69,7 +69,7 @@
     - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
     - [进程之间究竟有哪些通信方式？](https://mp.weixin.qq.com/s/CGqy0j5WvarN6mTmYB8vSA)
     - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
-    - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
+    - [~~一口气搞懂「文件系统」，就靠这 25 张图了~~](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
     - [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s/hjywA21UrvZSzdgvAr6fQA)
     - [2.5w字 + 36 张图+一周时间：爆肝操作系统面试题](https://mp.weixin.qq.com/s/ws6bgcv6dKIIJDwYYliMAg)
     - [计算机时间到底是怎么来的？](https://mp.weixin.qq.com/s/uM1ZNT8UwfvhqoscK8FJiQ)
