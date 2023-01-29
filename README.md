@@ -61,16 +61,16 @@
     
     - [浏览器的秘密藏在这31张图里](https://mp.weixin.qq.com/s/11MRrxmiyZybTUbjRDRubQ)
     - [带宽、延时、吞吐率、PPS 这些都是啥？](https://mp.weixin.qq.com/s/eWHQ8co0jF_a26Xz8ZQLjg)
-    - [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s/FaHKGRI69TqDj0AJtNiVoA)
+    - [~~进程和线程基础知识全家桶，30 张图一套带走~~](https://mp.weixin.qq.com/s/FaHKGRI69TqDj0AJtNiVoA)
     - [~~20 张图揭开内存管理的迷雾~~](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
     - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
     - [计算机内存管理基础知识](https://mp.weixin.qq.com/s/OGRMAJeDw8wuO7UW5PjoVQ)
-    - [用动图的方式，理解 CPU 缓存一致性协议！](https://mp.weixin.qq.com/s/cyI2VAP4dqkStbsNMDWhDQ)
-    - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
-    - [进程之间究竟有哪些通信方式？](https://mp.weixin.qq.com/s/CGqy0j5WvarN6mTmYB8vSA)
+    - [~~用动图的方式，理解 CPU 缓存一致性协议！~~](https://mp.weixin.qq.com/s/cyI2VAP4dqkStbsNMDWhDQ)
+    - [~~进程间通信~~](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
+    - [~~进程之间究竟有哪些通信方式？~~](https://mp.weixin.qq.com/s/CGqy0j5WvarN6mTmYB8vSA)
     - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
     - [~~一口气搞懂「文件系统」，就靠这 25 张图了~~](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
-    - [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s/hjywA21UrvZSzdgvAr6fQA)
+    - [~~10 张图打开 CPU 缓存一致性的大门~~](https://mp.weixin.qq.com/s/hjywA21UrvZSzdgvAr6fQA)
     - [2.5w字 + 36 张图+一周时间：爆肝操作系统面试题](https://mp.weixin.qq.com/s/ws6bgcv6dKIIJDwYYliMAg)
     - [计算机时间到底是怎么来的？](https://mp.weixin.qq.com/s/uM1ZNT8UwfvhqoscK8FJiQ)
     
@@ -149,9 +149,9 @@
     - [双亲委派原则](https://mp.weixin.qq.com/s/6nJ-6cDLW6TfysWV5ZB3Iw)
     - [Java 16 新特征，真香！](https://mp.weixin.qq.com/s/-NQoKpBTXwGUxd2hUbCU2Q)
   - 线上问题排查
-    - [线上问题如何排查？](https://mp.weixin.qq.com/s/8YBJn8x7Sf9dai9jNkX6Tg)
-    - [RT 过长，排查思路](https://mp.weixin.qq.com/s/TnLl2OW9XJLSZihcpgP7VQ)
-    - [线上问题排查](https://mp.weixin.qq.com/s/fA860wCu9PZW3eQTwdbGWQ)
+    - [~~线上问题如何排查？~~](https://mp.weixin.qq.com/s/8YBJn8x7Sf9dai9jNkX6Tg)
+    - [~~RT 过长，排查思路~~](https://mp.weixin.qq.com/s/TnLl2OW9XJLSZihcpgP7VQ)
+    - [~~线上问题排查~~](https://mp.weixin.qq.com/s/fA860wCu9PZW3eQTwdbGWQ)
     
       
 
@@ -454,7 +454,7 @@
   - Hadoop
   - Hbase
   - HDFS
-  - [大数据体系](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)
+  - [~~大数据体系~~](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)
   - [Flink入门教程](https://mp.weixin.qq.com/s/xa2iGrmyoXq3FtZeU9GU-w)
   - [Flink的CheckPoint机制](https://mp.weixin.qq.com/s/-OY0VGDWUoOMgKg-xKjZRQ)
   - [Flink背压](https://mp.weixin.qq.com/s/Ttm9lCYxu7Wx0oE-LsjRlw)
@@ -492,7 +492,7 @@
     - [1.4 w字，25 张图让你彻底掌握分布式事务原理](https://mp.weixin.qq.com/s/ujRRtdLOeKEHsHrtDRNXGA)
     - [什么是分布式配置中心？](https://mp.weixin.qq.com/s/NY7_z7SpiHy7IMJglPUoMw)
     
-    - [几种大厂分布式ID设计方案](https://mp.weixin.qq.com/s/pT2m_xqzcJkpV3Ql0o6dMw) 
+    - [~~几种大厂分布式ID设计方案~~](https://mp.weixin.qq.com/s/pT2m_xqzcJkpV3Ql0o6dMw) 
 - 互联网前沿技术
 
   - 容器化：Docker与k8s详解
